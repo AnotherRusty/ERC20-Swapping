@@ -1,0 +1,406 @@
+{
+  "manifestVersion": "3.2",
+  "proxies": [
+    {
+      "address": "0x2865AB9b1A4056CB5732b927807119254639aAfb",
+      "txHash": "0xc6827a69fec0a5c0a52ef52cc02fe598e9f30f7333976d5c6ad4dcf848e9f35c",
+      "kind": "uups"
+    },
+    {
+      "address": "0x6110Ca7c4FfaB207E90e767453Cb9F8711DA46cD",
+      "txHash": "0x3e3aaaf7e40632e17e09f2c0469fa81cc66a499d17c613ce9b58258fa677f2e6",
+      "kind": "uups"
+    },
+    {
+      "address": "0xad3C47a0F79B57923a3f416151b2Fd9b607561fc",
+      "txHash": "0x1ea26bad7caeb64c65cbf259f1af453b788068fd4bbcb63ff6c6a2cc5715cff9",
+      "kind": "uups"
+    },
+    {
+      "address": "0xaf31A2d9c8cb6B3458603302330DF007eeED19dd",
+      "txHash": "0x28a86bff6013fbe4be0a5d692e3dd8ecbc240ceee738c3ea8ab219bd9f30726e",
+      "kind": "uups"
+    },
+    {
+      "address": "0x9dB96b1b73195AFCE37595914018752BFe04BB0e",
+      "txHash": "0xddd9df229ef10f7f04e319a085faffec9261cff73fe094a8518d58b1cd6b2235",
+      "kind": "uups"
+    },
+    {
+      "address": "0xD77F51d80860eF38D16Ad034290cc62567e8725a",
+      "txHash": "0x3503cd903b45f1afe7fc91c7dde4c46c072610ca91d046689d711608418c424b",
+      "kind": "uups"
+    },
+    {
+      "address": "0xB0582BA095376EfeC46b57EBC188C1F74A2EA695",
+      "txHash": "0x3c049d9aeb252da0b0f03e165d6f91cd2fe365b57dacbeb9bc31e77fe40f7a76",
+      "kind": "uups"
+    },
+    {
+      "address": "0x5cC92FaD068FeBbd7701682157aC5d4FD557F615",
+      "txHash": "0x152a5f28bedf60d5d617c31059fd681a25730af9ec47e196437ded3a53481f4e",
+      "kind": "uups"
+    },
+    {
+      "address": "0xDfF59Db7e3890100A14415E13A17c360E26c53CB",
+      "txHash": "0x0dbdbb38f0d920c191512292de38f9d1a3b87ff033edb91db4a836c80114c6b4",
+      "kind": "uups"
+    },
+    {
+      "address": "0x744A830087DdEbFa423251eB069890618209507b",
+      "txHash": "0x5bf5a02ee4886b412c6eef2c2bc04d048eeec4c4bab310c614854cf6682d86a7",
+      "kind": "uups"
+    },
+    {
+      "address": "0x74285dc01CE74F49ed35bB14C0F02530782bAfCD",
+      "txHash": "0x001fc0d3ff0c68ff25121f98d4ffac72f35c44583e284baf09af4ec46936cfbc",
+      "kind": "uups"
+    },
+    {
+      "address": "0xfeAcb44f1A773C2F99960a2b309f31fFFE34EfF2",
+      "txHash": "0x8ee027d91bd5484b2d07e36dd57b5885c0cb555ebec26b141048436aaff8c609",
+      "kind": "uups"
+    },
+    {
+      "address": "0x09EBC59A8A088226c8DaD1C1bbE3b34fa9161D14",
+      "txHash": "0x13e79273066bbee89ede3bdf5929d8e9db211b30411eaa7c993ba4a05ef4ecbb",
+      "kind": "uups"
+    },
+    {
+      "address": "0x26BB30095D361dD706E98507300599FFc43586A4",
+      "txHash": "0x9cccad999ec102e9e3b1216094870f006be6ed3392c9de0f26d85024bcc73466",
+      "kind": "uups"
+    },
+    {
+      "address": "0xA97a0cF7E0CEe42C029781B153252b24d9568759",
+      "txHash": "0x6ce23c7807414d17da7489c8a43802bcfea1ee39a3971dd6567b5ff4374a044b",
+      "kind": "uups"
+    },
+    {
+      "address": "0x07649BcBA7A32C1124990443c12F576618ea5cEa",
+      "txHash": "0x59a06ce2052b35442f5084a8c758287e33162f9865e43077c4e5e9f7e7c8b906",
+      "kind": "uups"
+    },
+    {
+      "address": "0xD734B0D94a150f32dE47aC7e58726ACB58a53775",
+      "txHash": "0xd8125d95c71b1184cd0a092d051e124a8005a9b3cf543f03fc5b2ca36c0effb8",
+      "kind": "uups"
+    },
+    {
+      "address": "0x55CcA888AF8bdbA4d01C630F6Dd0FDAA4292cf88",
+      "txHash": "0x71a8a417ac88bb4da6d77fc120965e1ccf8cddc5295eb6eef80f3dc3027df48f",
+      "kind": "uups"
+    },
+    {
+      "address": "0x4A32Ff51ed8D10cA5D85d21976CEa1Cd14F3B164",
+      "txHash": "0x4a89da2d4c5345845b1ea183b90186be0b7c5d03018f947e53e489ee1d0d33bf",
+      "kind": "uups"
+    },
+    {
+      "address": "0xFc5365fE5DB8EEFC1470ABd02E40FE3dE2d1c3EB",
+      "txHash": "0x1998f40dc69c25ba883ffe49a8848a95606dea2b6c1e6f29bfd6ad9e7bcb5c46",
+      "kind": "uups"
+    },
+    {
+      "address": "0xA967621a1173A2bFf3D67D36Ca7A3823c855Ac25",
+      "txHash": "0xbabfef7687805dae27f9f4e8b9068349337afffec7e4a0a880cc58cfa5a14047",
+      "kind": "uups"
+    },
+    {
+      "address": "0xcaf0B0b1f3a026dF985A3c1616304a5C63bA4282",
+      "txHash": "0x0eacff81ad142571b5be6915c5058b76a21e7c84b470d7a6a1f82d7730d88120",
+      "kind": "uups"
+    },
+    {
+      "address": "0x271d929bBA3e5274f696519067ac603736E7D8dF",
+      "txHash": "0xbd8aa6bc5da8cc255b2cc8d90b0655a2fa7f4bac8f7308b1d8d2f5dfec736b03",
+      "kind": "uups"
+    },
+    {
+      "address": "0xfD4E4593aB42c1CfEd478fc6C1796e335A9ad128",
+      "txHash": "0x846ce349d911e3fd58b8f59568c7480c3fbde31985b26c021775c7914e2ba74b",
+      "kind": "uups"
+    },
+    {
+      "address": "0x29bD1ac7c4890d92A4d2b07f70fC3DF3eDB8a7B3",
+      "txHash": "0xff0bffae0b3e3ac3a2c10c0824f821ac0af34dccc7564ea952c7111ccd33aa86",
+      "kind": "uups"
+    },
+    {
+      "address": "0xBe4cE01a4cfe71EC3736316527b8Ab2937426e8D",
+      "txHash": "0x50cce7ced936619dd8c430e52a6d96b99d772fa529ab4579c81564d4a6fd7d5c",
+      "kind": "uups"
+    },
+    {
+      "address": "0xc7b6E62A419f3C5d99111d5b17A8DeBEC888126F",
+      "txHash": "0xf78e41311db93fa41c4b2ddf90e5dab44899cb74389ae9222eefe70ba94b2840",
+      "kind": "uups"
+    },
+    {
+      "address": "0x9E05AB007f5Da6D0A503F807aDA3De2F865Ddb92",
+      "txHash": "0x953161396ca42e0d71f263cc6a98cb3e57c40a917de3fe488d1f260f9ea93742",
+      "kind": "uups"
+    },
+    {
+      "address": "0x228D7828Fb146676563f80dE6B465867C8C6cb48",
+      "txHash": "0x172314f28bbb59370b6185681d7bea53af5bb44387b5d3db469449af206f0f7e",
+      "kind": "uups"
+    }
+  ],
+  "impls": {
+    "7a3e95138477f222f95d345d8fb44a17114b67afeee351f565edeeae02dffa9e": {
+      "address": "0xD330985766442e23522dE3d649C01F715919a7Cc",
+      "txHash": "0x29871c7de0993abff7e5d28c4b40cae4e33e17750975b1d4c308c51a91d52f4e",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [
+          {
+            "label": "swapRouter",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_contract(IUniswapV2Router02)1965",
+            "contract": "Swapper",
+            "src": "contracts\\Swapper.sol:35"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_struct(InitializableStorage)65_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(OwnableStorage)14_storage": {
+            "label": "struct OwnableUpgradeable.OwnableStorage",
+            "members": [
+              {
+                "label": "_owner",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(ReentrancyGuardStorage)195_storage": {
+            "label": "struct ReentrancyGuardUpgradeable.ReentrancyGuardStorage",
+            "members": [
+              {
+                "label": "_status",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          },
+          "t_contract(IUniswapV2Router02)1965": {
+            "label": "contract IUniswapV2Router02",
+            "numberOfBytes": "20"
+          }
+        },
+        "namespaces": {
+          "erc7201:openzeppelin.storage.ReentrancyGuard": [
+            {
+              "contract": "ReentrancyGuardUpgradeable",
+              "label": "_status",
+              "type": "t_uint256",
+              "src": "@openzeppelin\\contracts-upgradeable\\utils\\ReentrancyGuardUpgradeable.sol:40",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Ownable": [
+            {
+              "contract": "OwnableUpgradeable",
+              "label": "_owner",
+              "type": "t_address",
+              "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:24",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    },
+    "adb2124f651a9542ad183044565c9e6eb686ba0b1087cf106125f0edb4b6b5a1": {
+      "address": "0x57E1dbbA80e6165e98a4f559321FDcD4a87E4F7b",
+      "txHash": "0x5ef14e335a885bd94a82e8c2dfcfbc2a06a4d35e9422fa3ab48b00c5600bf35c",
+      "layout": {
+        "solcVersion": "0.8.24",
+        "storage": [
+          {
+            "label": "swapRouter",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_contract(IUniswapV2Router02)1965",
+            "contract": "Swapper",
+            "src": "contracts\\Swapper.sol:35"
+          },
+          {
+            "label": "authorizedUsers",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "Swapper",
+            "src": "contracts\\Swapper.sol:36"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_struct(InitializableStorage)65_storage": {
+            "label": "struct Initializable.InitializableStorage",
+            "members": [
+              {
+                "label": "_initialized",
+                "type": "t_uint64",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "_initializing",
+                "type": "t_bool",
+                "offset": 8,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(OwnableStorage)14_storage": {
+            "label": "struct OwnableUpgradeable.OwnableStorage",
+            "members": [
+              {
+                "label": "_owner",
+                "type": "t_address",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_struct(ReentrancyGuardStorage)195_storage": {
+            "label": "struct ReentrancyGuardUpgradeable.ReentrancyGuardStorage",
+            "members": [
+              {
+                "label": "_status",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              }
+            ],
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint64": {
+            "label": "uint64",
+            "numberOfBytes": "8"
+          },
+          "t_contract(IUniswapV2Router02)1965": {
+            "label": "contract IUniswapV2Router02",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          }
+        },
+        "namespaces": {
+          "erc7201:openzeppelin.storage.ReentrancyGuard": [
+            {
+              "contract": "ReentrancyGuardUpgradeable",
+              "label": "_status",
+              "type": "t_uint256",
+              "src": "@openzeppelin\\contracts-upgradeable\\utils\\ReentrancyGuardUpgradeable.sol:40",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Ownable": [
+            {
+              "contract": "OwnableUpgradeable",
+              "label": "_owner",
+              "type": "t_address",
+              "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:24",
+              "offset": 0,
+              "slot": "0"
+            }
+          ],
+          "erc7201:openzeppelin.storage.Initializable": [
+            {
+              "contract": "Initializable",
+              "label": "_initialized",
+              "type": "t_uint64",
+              "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:69",
+              "offset": 0,
+              "slot": "0"
+            },
+            {
+              "contract": "Initializable",
+              "label": "_initializing",
+              "type": "t_bool",
+              "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:73",
+              "offset": 8,
+              "slot": "0"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
